@@ -9,7 +9,7 @@ public class JavaSweeper extends JFrame {
     private Game game;
     private final int COLS = 9;
     private final int ROWS = 9;
-    private final int BOMBS = 10;
+    private final int BOMBS = 9;
     private final int IMAGE_SIZE = 50;
     private JPanel panel;
     public static void main(String[] args) {
